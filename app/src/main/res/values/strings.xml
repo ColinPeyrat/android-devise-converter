@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">M4104C_DS2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="TextViewMontant">Votre montant :</string>
+    <string name="euros">Euros</string>
+    <string name="devise">Devise :</string>
+    <string name="montantConverti">Montant converti :</string>
+</resources>
